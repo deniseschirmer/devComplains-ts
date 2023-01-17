@@ -14,7 +14,7 @@
 O  projeto feito durante o curso Ignite, realizado pela Rocketseat! Desenvolvemos um Feed que tive a ideia de ser um locar de reclamações para devs,
 um sistema de feed no qual fizemos a parte Front End desse projeto com React, TypesScritpt e utilizando o Vite.
 
-### Link do projeto: 
+### Link do projeto: https://dev-complains.netlify.app/
 
 ### 🛠 Tecnologias
 #### As seguintes ferramentas foram usadas na construção do projeto:
