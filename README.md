@@ -55,8 +55,5 @@ $ npm run dev
 <br />
 
 #### Made with love by: Denise Schirmer
-<<<<<<< HEAD
+
 [See my linkedIn](https://www.linkedin.com/in/denise-s-lima-schirmer-9702661ba/)
-=======
-[See my linkedIn](https://www.linkedin.com/in/denise-s-lima-schirmer-9702661ba/)
->>>>>>> bba92258e5edc76f3f59e69d4db06b488c83c893
