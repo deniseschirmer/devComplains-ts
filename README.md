@@ -1,17 +1,14 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> bba92258e5edc76f3f59e69d4db06b488c83c893
 <h1 style="text-align: center; font-weight: bold;">Dev Complains TS</h1>
 
  ## Demo 📸
 
 <div align="center">
-<<<<<<< HEAD
+
    <img src="./github/dev-complains.gif" alt="demo-mobile" height="425">
-=======
+
    <img src="./github/.png" alt="demo-mobile" height="425">
->>>>>>> bba92258e5edc76f3f59e69d4db06b488c83c893
+
 </div> 
  ---
 
